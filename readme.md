@@ -38,8 +38,11 @@ mkdir backend
 cd backend
 npm install
 npm run dev
+```
 
+### b) Frontend
 
+```bash
 mkdir campagnes
 cd campagnes
 mkdir frondend
