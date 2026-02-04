@@ -26,6 +26,11 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 ### a) Backend
 
+.env files
+
+DB_URI=mongodb://localhost:27017/advertisement
+PORT=5000
+
 ```bash
 mkdir campagnes
 cd campagnes
