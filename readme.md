@@ -31,9 +31,14 @@ mkdir campagnes
 cd campagnes
 mkdir backend
 cd backend
-npm init -y
-npm install express cors dotenv
-npm install -D nodemon
+npm install
 npm run dev
 
 
+mkdir campagnes
+cd campagnes
+mkdir frondend
+cd frondend
+npm install
+npm run dev
+```
