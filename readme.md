@@ -17,8 +17,8 @@ L'objectif est de créer un projet full-stack avec une API et une interface util
 Avant de commencer, assurez-vous d'avoir installé :
 
 - [Node.js](https://nodejs.org/) >= 18
-- npm ou yarn
-- MySQL ou MongoDB si nécessaire
+- npm
+- MongoDB si nécessaire
 
 ---
 
