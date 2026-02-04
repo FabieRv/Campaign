@@ -6,7 +6,7 @@ Cette application est un projet full-stack utilisant :
 
 - **Backend** : Node.js + Express
 - **Frontend** : React + Tailwind CSS
-- **Base de données** : MySQL / MongoDB (à configurer selon vos besoins)
+- **Base de données** : MongoDB (à configurer selon vos besoins)
 
 L'objectif est de créer un projet full-stack avec une API et une interface utilisateur interactives.
 
@@ -18,7 +18,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 - [Node.js](https://nodejs.org/) >= 18
 - npm
-- MongoDB si nécessaire
+- MongoDB
 
 ---
 
